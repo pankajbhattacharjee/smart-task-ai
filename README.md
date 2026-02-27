@@ -151,7 +151,7 @@ See the `ai_guidance/` folder for:
 
 ## License
 
-MIT (or your chosen license)
+MIT 
 
 ---
 
